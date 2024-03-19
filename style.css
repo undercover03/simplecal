@@ -1,0 +1,13 @@
+body{
+    background-image: url(./wp2497493.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    border: 10px solid rgb(24, 212, 7);
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+    background-color: rgb(7, 212, 185);
+}
